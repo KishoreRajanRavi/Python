@@ -1,0 +1,6 @@
+Hello Kishore
+Welcome to Python File Handling!
+This line is added at the end.
+This line is added at the end.
+
+Adding this after reading!

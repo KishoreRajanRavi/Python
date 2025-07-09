@@ -1,0 +1,2 @@
+This is written by Kishore!
+Great start in Python file handling.This line is added at the end.
