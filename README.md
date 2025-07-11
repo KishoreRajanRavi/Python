@@ -64,7 +64,7 @@ This repo covers foundational to intermediate topics in Python, organized for cl
 ---
 
 ## 9. Error Handling
-- Exception handling using `try`, `except`, `finally`
+- Exception handling using `try`, `except`
 
 ---
 
