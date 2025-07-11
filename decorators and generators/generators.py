@@ -1,4 +1,4 @@
-def number_generator():
+"""def number_generator():
     yield 1
     yield 2
     yield 3
@@ -6,4 +6,14 @@ def number_generator():
 gen = number_generator()
 
 for num in gen:
-    print(num)
+    print(num)"""
+
+def countdown(n):
+    while n > 0:
+        yield n
+        n -= 1
+
+gen = countdown(5)
+print(next(gen))
+print(next(gen))
+
